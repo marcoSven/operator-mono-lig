@@ -15,7 +15,5 @@ equal_equal_equal.2.liga === // extended equal with gap
 // non-ligature glyphs (not by default, use profiles.ini)
 percent=percent.alt      % 	// open vs closed circles
 
-// power line glyphs
-uniE0A0 			// Powerline branch
-uniE0B0 	 	// Powerline right triangle
-uniE0B2 	 	// Powerline left triangle
+
+
